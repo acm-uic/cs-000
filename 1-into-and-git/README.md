@@ -16,7 +16,7 @@ Also take a look at [Missing Semester](https://missing.csail.mit.edu/).
 ## Links shared in the first meeting
 
 - Linus Torvalds talks about SVN and why Git exists. [YouTube Link](https://www.youtube.com/watch?v=4XpnKHJAok8)
-- Getting started with Git :linus: 
+- Getting started with Git
   - [Official Docs (They also have some videos if you like that more)]( https://git-scm.com/doc)
   - [Atlassian's Guide (This is what I really used when I was getting started with Git)](https://www.atlassian.com/git)
   - [Other resources (There's a nice git visualizer and other stuff)](https://try.github.io/)
