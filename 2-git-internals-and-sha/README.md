@@ -100,3 +100,12 @@ Yes, but that does not matter in this context. Git uses SHA1 to keep track of da
 ### Content is King
 
 Git is very smart. It does not keep track of files, it keeps track of the content. If you create 1000000000000 files with the same content, it will only create 1 blob. Also works if you create 2 files with the same content. :wink:
+
+## Learn more about Git
+
+- https://github.com/pluralsight/git-internals-pdf
+- http://rogerdudler.github.io/git-guide/
+- https://matthew-brett.github.io/curious-git/index.html
+- http://git-school.github.io/visualizing-git/
+- https://git-scm.com/book/en/v2
+- https://git-scm.com/docs
