@@ -29,6 +29,7 @@
 ## Basic Git Workflow
 
 ![Git Workflow](images/git-workflow.png)
+
 Image source: *https://backlog.com/git-tutorial/git-workflow/*
 
 ## Git Basics
@@ -59,7 +60,8 @@ Everything in Git is represented in a few basic objects stored in the file syste
 
 - Pointers to files, content and other trees
 
-![Git Workflow](images/git-tree.png)
+![Git Tree](images/git-tree.png)
+
 Image source: *https://git-scm.com/book/en/v2/Git-Internals-Git-Objects*
 
 #### Commit
@@ -69,7 +71,8 @@ Image source: *https://git-scm.com/book/en/v2/Git-Internals-Git-Objects*
 - Pointer to a tree
 - Pointer to parent
 
-![Git Workflow](images/git-commit.png)
+![Git Commit](images/git-commit.png)
+
 Image source: *https://git-scm.com/book/en/v2/Git-Internals-Git-Objects*
 
 
@@ -77,7 +80,8 @@ Image source: *https://git-scm.com/book/en/v2/Git-Internals-Git-Objects*
 
 - Pointer to a commit
 
-![Git Workflow](images/git-ref.png)
+![Git References](images/git-ref.png)
+
 Image source: *https://git-scm.com/book/en/v2/Git-Internals-Git-References*
 
 #### Read more
