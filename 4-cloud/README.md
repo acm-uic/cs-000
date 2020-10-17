@@ -37,7 +37,7 @@
 
 ![what if i told you that there is no cloud just another persons computer](images/what-if-i-told-you-that-there-is-no-cloud-just-another-persons-computer.jpg)
 
-It's someone else's computer?
+It's someone else's computer.
 
 Cloud computing is an on-demand, utility-based model of computing.
 
