@@ -5,7 +5,7 @@ Firewalls are essential to securing a network.
 
 A large portion of servers run linux and therefore rely on iptables in some fashion to handle networking. 
 
-![Git References](images/iptables-diagram.png)
+![Git References](images/iptable-diagram.png)
 
 Image source: *https://sites.google.com/site/mrxpalmeiras/linux/iptables-routing*
 
