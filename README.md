@@ -10,3 +10,4 @@ Repository of meeting notes and other handy info for CS 000 meetings.
 - [Session 4 - Buzzwords 1: Cloud](4-cloud/README.md)
 - [Session 5 - Code to cloud](5-code-to-cloud/README.md)
 - [Session 6 - CI/CD](6-ci-cd/README.md)
+- [Session 7 - IPTables/Firewall Basics](7-iptables-firewall/README.md)
