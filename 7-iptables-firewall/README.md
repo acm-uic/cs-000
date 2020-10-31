@@ -5,6 +5,10 @@ Firewalls are essential to securing a network.
 
 A large portion of servers run linux and therefore rely on iptables in some fashion to handle networking. 
 
+![Git References](images/iptables-diagram.png)
+
+Image source: *https://sites.google.com/site/mrxpalmeiras/linux/iptables-routing*
+
 ### Firewall basics:
 
 It's generally good practice to set the default input policy to drop to prevent unintended traffic.
